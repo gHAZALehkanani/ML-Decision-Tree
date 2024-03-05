@@ -1,6 +1,1 @@
-Accuracy: 0.9754816112084063
-Confusion Matrix:
- [[118   5   3   0]
- [  2  25   0   0]
- [  3   0 396   0]
- [  1   0   0  18]]
+![image](https://github.com/gHAZALehkanani/ML-Decision-Tree/assets/130077881/7d595120-6d2e-403d-9692-46a92e08c8a9)
